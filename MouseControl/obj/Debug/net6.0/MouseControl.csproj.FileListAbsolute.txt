@@ -1,0 +1,12 @@
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\bin\Debug\net6.0\MouseControl.deps.json
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\bin\Debug\net6.0\MouseControl.dll
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\bin\Debug\net6.0\ref\MouseControl.dll
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\bin\Debug\net6.0\MouseControl.pdb
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.csproj.AssemblyReference.cache
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.AssemblyInfoInputs.cache
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.AssemblyInfo.cs
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.csproj.CoreCompileInputs.cache
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.dll
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\ref\MouseControl.dll
+C:\Users\Sanjeevi\Desktop\github\MouseControl\MouseControl\obj\Debug\net6.0\MouseControl.pdb
